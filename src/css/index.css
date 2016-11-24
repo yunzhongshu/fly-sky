@@ -1,0 +1,31 @@
+#photosphere{
+    height: 600px;
+    width: 1000px;
+}
+
+.door{
+
+    background-color: #fff;
+
+}
+
+.small-circle{
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 20px #fff;
+}
+
+.normal-circle{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 40px 40px #fff;
+}
+
+.big-circle{
+    height: 60px;
+    width: 60px;
+    border-radius: 30px;
+    box-shadow: 0 0 60px 60px #fff;
+}
